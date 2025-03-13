@@ -6,11 +6,11 @@
     const offbutton = document.getElementById("offbutton");
 
     function turnon(){
-        bulbimage.src = "/home/uki-jaffna/Documents/tharsh/js2 question2/image/light.pnggit ";
+        bulbimage.src = "./image/light.png";
     }
 
         function turnoff(){
-            bulbimage.src="/home/uki-jaffna/Documents/tharsh/js2 question2/image/images.jpeg";
+            bulbimage.src="./image/images.jpeg";
 
 
         }
